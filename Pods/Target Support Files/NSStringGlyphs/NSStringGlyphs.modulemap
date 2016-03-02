@@ -1,0 +1,6 @@
+framework module NSStringGlyphs {
+  umbrella header "NSStringGlyphs-umbrella.h"
+
+  export *
+  module * { export * }
+}

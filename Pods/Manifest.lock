@@ -1,0 +1,10 @@
+PODS:
+  - NSStringGlyphs (0.1)
+
+DEPENDENCIES:
+  - NSStringGlyphs
+
+SPEC CHECKSUMS:
+  NSStringGlyphs: f80cf9f4d9a88384c6f7837c895ff04d5b85286b
+
+COCOAPODS: 0.39.0
