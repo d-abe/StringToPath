@@ -11,8 +11,8 @@ import NSStringGlyphs
 
 public extension String {
 
-  public func pathWithFont(font: UIFont) -> UIBezierPath {
+  public func pathWithFont(_ font: UIFont) -> UIBezierPath {
     let text = self as NSString
-    return text.bezierPathWithFont(font)
+    return text.bezierPath(with: font)
   }
 }
